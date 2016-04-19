@@ -1,0 +1,14 @@
+layout_spectrum: 0.9254386
+typography_spectrum: 0.7209765
+color:
+  saturation: 0.8617917
+  lightness: 0.8158773
+  brandStrength: 0.513875
+  rhythmicContrast: 0.003621206
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Findurflow
