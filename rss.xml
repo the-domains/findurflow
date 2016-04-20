@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Findurflow]]></title>
+        <description><![CDATA[Findurflow]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Apr 2016 13:43:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Win win for the police & the community!]]></title>
+            <description><![CDATA[<article><h1>Win win for the police & the community!</h1><p>I was reading through all the negativity and stupidity this morning while drinking my coffee and something said, 'how about some good news?', so I typed in GOOD NEWS and found your site... Ahhh! John Longo Oh my, you've made my day! I can't tell you completely how happy you've made me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6c9be345d577ff8aed35088ed2df1e7798e1813.jpg"></article>]]></description>
+            <link>http://www.goodnewsnetwork.org/look-cops-meditating-hitting-streets-canada/</link>
+            <guid isPermaLink="false">3d69b133-e6b8-4b32-8f9b-b2861780c573</guid>
+            <pubDate>Wed, 20 Apr 2016 13:43:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
