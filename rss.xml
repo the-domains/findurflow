@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Findurflow]]></title>
         <description><![CDATA[Findurflow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/findurflow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 13:43:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 01:31:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/findurflow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Synergy of mind and body = flow! Find your flow!]]></title>
+            <description><![CDATA[<article><h1>Synergy of mind and body = flow! Find your flow!</h1><p>By Kendra Cherry Updated January 22, 2016. What exactly is flow? Imagine for a moment that you are running a race. Your attention is focused on the movements of your body, the power of your muscles, the force of your lungs, and the feel of the street beneath your feet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53525227917def29f63859a6b29065dba1bb05e4.jpg"></article>]]></description>
+            <link>http://psychology.about.com/od/PositivePsychology/a/flow.htm</link>
+            <guid isPermaLink="false">912740cf-8d76-46d5-b4fb-e9163bd56867</guid>
+            <pubDate>Thu, 21 Apr 2016 01:31:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Win win for the police & the community!]]></title>
             <description><![CDATA[<article><h1>Win win for the police & the community!</h1><p>I was reading through all the negativity and stupidity this morning while drinking my coffee and something said, 'how about some good news?', so I typed in GOOD NEWS and found your site... Ahhh! John Longo Oh my, you've made my day! I can't tell you completely how happy you've made me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6c9be345d577ff8aed35088ed2df1e7798e1813.jpg"></article>]]></description>
