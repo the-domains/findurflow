@@ -1,14 +1,26 @@
-layout_spectrum: 0.9254386
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7209765
 color:
-  saturation: 0.8617917
-  lightness: 0.8158773
+  saturation: 1
   brandStrength: 0.513875
-  rhythmicContrast: 0.003621206
+  lightness: 1
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  rhythmicContrast: 0.1666667
+layout_spectrum: 0.9254386
 name: Findurflow
